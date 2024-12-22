@@ -18,7 +18,7 @@ Explore the live project here: [CodeAntAI Live Deployment](https://lmqmmgzowfe9g
 
 ## 📂 GitHub Repository  
 
-Access the complete codebase here: [GitHub Repository](https://github.com/merlinbaptista/CodeAntAI-FrontendCode.git)  
+Access the complete codebase here: [GitHub Repository](https://github.com/merlinbaptistab/Codeantai-FrontendCode.git)  
 
 ---
 
@@ -77,8 +77,8 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/merlinbaptistab/CodeAntAI-FrontendCode.git
-   cd CodeAntAI-FrontendCode/codeant-auth
+   git clone https://github.com/merlinbaptistab/Codeantai-FrontendCode.git
+   Codeantai-FrontendCode/codeant-code
    ```  
 
 2. **Install dependencies**  
